@@ -22,3 +22,15 @@ addForm.addEventListener('submit', function(e){
   const value = addForm.querySelector('input[type="text"]').value;
   console.log(value);
 });
+
+/*
+    function checkForm(){
+    
+    var form = document.forms[0];
+    var selectElement = form.querySelector('input[name="pwd"]');
+    var selectedValue = selectElement.value;
+
+    console.log(selectedValue);
+    }
+  */  
+ 
